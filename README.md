@@ -51,7 +51,7 @@ $ npm start (to start the server), or nodemon server
 
 ##  🔌 Technologies used ✔️:
 ![Static Badge](https://img.shields.io/badge/typeScript--blue?style=for-the-badge&logo=typescript&logoColor=black&logoSize=auto&label=TypeScript&labelColor=Black)
-![Static Badge](https://img.shields.io/badge/NextJs--lightblue?style=for-the-badge&logo=angular&logoColor=darkred&logoSize=auto&label=Angular&labelColor=lightgreen&color=lightgreen)
+![Static Badge](https://img.shields.io/badge/NextJs--lightblue?style=for-the-badge&logo=Nextjs&logoColor=darkred&logoSize=auto&label=NextJs&labelColor=lightgreen&color=lightgreen)
 ![Static Badge](https://img.shields.io/badge/Redux-Toolkit--gray?style=for-the-badge&logo=redux&logoColor=black&logoSize=auto&label=Redux%20Toolkit&labelColor=lightbrown&color=black)
 ![Static Badge](https://img.shields.io/badge/cors%20-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/dotenv-black?style=for-the-badge)
@@ -61,7 +61,7 @@ $ npm start (to start the server), or nodemon server
 ![Static Badge](https://img.shields.io/badge/bootstrap-teal?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/rxjs%20-aqua?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/multer%20-aqua?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/GRAPHQL?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/graphql?style=for-the-badge)
 
 
 ##  Screenshots:
