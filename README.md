@@ -61,7 +61,7 @@ $ npm start (to start the server), or nodemon server
 ![Static Badge](https://img.shields.io/badge/bootstrap-teal?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/rxjs%20-aqua?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/multer%20-aqua?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/graphql?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/graphql%20?style=for-the-badge)
 
 
 ##  Screenshots:
