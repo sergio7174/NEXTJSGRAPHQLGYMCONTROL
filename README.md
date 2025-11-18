@@ -62,7 +62,7 @@ $ npm start (to start the server), or nodemon server
 ![Static Badge](https://img.shields.io/badge/rxjs%20-aqua?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/multer%20-aqua?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Graphql-gray?style=for-the-badge&logo=Graphql&logoColor=black&logoSize=auto&label=GraphQl%20&labelColor=lightbrown&color=black)
-![Static Badge](https://img.shields.io/badge/Apollo v3--gray?style=for-the-badge&logo=Apollo&logoColor=black&logoSize=auto&label=Apollo%20Apollo V3&labelColor=lightbrown&color=black)
+![Static Badge](https://img.shields.io/badge/Apollo--gray?style=for-the-badge&logo=apollo&logoColor=black&logoSize=auto&label=Apollo%20&labelColor=lightbrown&color=black)
 
 
 ##  Screenshots:
